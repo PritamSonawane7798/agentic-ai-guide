@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agentic-ai-guide/static/css/main.e6c13ad2.css",
+    "main.js": "/agentic-ai-guide/static/js/main.7968619a.js",
+    "static/js/453.b59c7eb8.chunk.js": "/agentic-ai-guide/static/js/453.b59c7eb8.chunk.js",
+    "index.html": "/agentic-ai-guide/index.html",
+    "main.e6c13ad2.css.map": "/agentic-ai-guide/static/css/main.e6c13ad2.css.map",
+    "main.7968619a.js.map": "/agentic-ai-guide/static/js/main.7968619a.js.map",
+    "453.b59c7eb8.chunk.js.map": "/agentic-ai-guide/static/js/453.b59c7eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7968619a.js"
+  ]
+}
